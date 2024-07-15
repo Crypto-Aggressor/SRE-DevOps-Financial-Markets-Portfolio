@@ -1,0 +1,23 @@
+# Vitepress generated files
+docs/.vitepress/dist/
+
+# Node.js dependencies
+node_modules/
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# npm-debug.log
+npm-debug.log
+
+# Yarn logs
+yarn-debug.log*
+yarn-error.log*
