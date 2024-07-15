@@ -46,7 +46,7 @@ To get started with this portfolio, you can navigate through the directories lis
 Feel free to connect with me on professional networks or reach out via email:
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- **Email**: `your-email@example.com`
+- **Email**: `emayne@gmail.com`
 
 Thank you for visiting my professional SRE-DevOps portfolio in the financial markets domain. I look forward to sharing my experiences and connecting with fellow professionals.
 
