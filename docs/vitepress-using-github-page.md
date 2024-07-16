@@ -39,6 +39,12 @@ Install VitePress as a development dependency:
 npm install vitepress --save-dev
 ```
 
+Make sure the latest version is installed 
+
+```bash
+npm install vitepress@latest
+```
+
 ## Configure Project Structure
 
 Ensure the docs directory is created
@@ -102,7 +108,7 @@ themeConfig: {
         text: 'Portfolio',
         items: [
             { text: 'Welcome', link: '/' },
-            { text: 'Curriculum Vitae', link: '/curriculum-vitae' },
+            { text: 'Curriculum vitæ', link: '/curriculum-vitae' },
         ]
         }
     ]
@@ -124,15 +130,30 @@ head: [
 Run VitePress locally
 
  ```bash
- npx vitepress dev docs
+ cd docs/
+ npx vitepress dev
  ```
+
+in case of issue, Node.js need to be told to treat **`config.js`** or **`config.ts`** files as ES Modules. This can be done in a couple of ways:
+
+- **Using .mjs Extension**: Rename your config file from **`config.js`** to **`config.mjs`** to ensure it's treated as an ES Module.
+
+- **Using type Field in package.json**: Add **`"type": "module"`** to **`package.json`** to tell Node.js to treat all **`.js`** files as ES Modules within your project:
+
+```json
+{
+  "type": "module",
+  ...
+}
+```
 
 ## Deploy to GitHub Pages
 
-B uild the site and prepare for deployment
+Build the site and prepare for deployment
 
  ```bash
-npx vitepress build docs
+cd docs/
+npx vitepress build
 cd docs/.vitepress/dist
 git init && git add -A && git commit -m "Deploy site" && git push -f git@github.com:<your-organization>/SRE-DevOps-Financial-Markets-Portfolio.git master:gh-pages
  ```

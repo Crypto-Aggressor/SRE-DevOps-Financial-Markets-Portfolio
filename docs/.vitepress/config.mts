@@ -17,6 +17,8 @@ export default defineConfig({
           { text: 'Welcome', link: '/' },
           { text: 'Curriculum Vitae', link: '/curriculum-vitae' },
           { text: 'SRE Practices', link: '/sre-practices-implementation' },
+          { text: 'Dev Env setup', link: '/development-env-cmder' },
+          { text: 'Advanced documentation practices', link: '/vitepress-using-github-page' },
         ]
       }
     ],
