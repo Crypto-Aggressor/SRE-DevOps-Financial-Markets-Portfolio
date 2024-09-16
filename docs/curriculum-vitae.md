@@ -7,7 +7,16 @@
 
 ## PERSONAL PROFILE STATEMENT
 
-An adept banking professional bridging extensive financial market expertise with evolved technical knowledge. Originating from a strong analytical background in financial markets and risk evaluation, I ventured into the IT sphere, swiftly grasping and applying advanced technical practices. My involvement in the cloud on-boarding for the Prime Services learning perimeter was instrumental, where I learned and applied Kubernetes, Azure, and proprietary private cloud technologies. This initiative allowed me to construct a comprehensive production framework of best practices tailored for cloud environments, alongside developing a toolkit to streamline the global production team's on-boarding process. My career trajectory showcases a robust ability to merge intricate financial concepts with cutting-edge technology, significantly enhancing trading system efficiency and resilience. Recognized for strategic project leadership, I excel in fostering collaborations that drive toward operational excellence and innovation. This success is underpinned by my dedication to problem-solving, teamwork and communication, which ensure that project goals are met with precision and efficiency. My time management and resilience contribute to consistent delivery under pressure, while emotional intelligence and creativity play critical roles in navigating complex stakeholder relationships and fostering an environment of continuous improvement. A commitment to lifelong learning and a nuanced understanding of intercultural dynamics, shaped by my international experiences, underpin my professional ethos.
+An adept banking professional bridging extensive financial market expertise with evolved technical knowledge. Originating from a strong analytical background in financial markets and risk evaluation, I ventured into the IT sphere, swiftly grasping and applying advanced technical practices.
+
+My involvement in the cloud onboarding for the Prime Services learning perimeter was instrumental, where I learned and applied Kubernetes, Azure, and proprietary private cloud technologies. This initiative allowed me to construct a comprehensive production framework of best practices tailored for cloud environments, alongside developing a toolkit to streamline the global production team's onboarding process.
+
+My career trajectory showcases a robust ability to merge intricate financial concepts with cutting-edge technology, significantly enhancing trading system efficiency and resilience. Recognized for strategic project leadership, I excel in fostering collaborations that drive toward operational excellence and innovation.
+
+This success is underpinned by my dedication to problem-solving, teamwork, and communication, which ensure that project goals are met with precision and efficiency. My time management and resilience contribute to consistent delivery under pressure, while emotional intelligence and creativity play critical roles in navigating complex stakeholder relationships and fostering an environment of continuous improvement.
+
+A commitment to lifelong learning and a nuanced understanding of intercultural dynamics, shaped by my international experiences, underpin my professional ethos.
+
 
 ## WORK EXPERIENCE
 
@@ -22,8 +31,12 @@ Upon transitioning from Paris to London, I applied my expertise in production to
     - **`Technological and Functional Integration`**: Created comprehensive infrastructure and application interaction diagrams, facilitating a deeper understanding and proactive management of the trading and clearing system’s architecture.
 
 2. **Advancing Cloud Integration & Operational Efficiency**
-    - **`Cloud Migration Adaptation`**: Played a pivotal role in the bank's transition to Azure and private clouds by advancing my IaC, GitOps, and Kubernetes skills with a self-led Kubernetes home-lab project. This journey not only refined our production standards but also elevated the team's cloud proficiency, enhancing our capabilities in data monitoring, visualization with Elastic Stacks, and advancing debugging and deployment methodologies.
-    - **`DevOps Toolkit & Documentation Enhancement`**: Built a standardized toolkit leveraging open-source technologies, enhanced by Docker for Ansible Playbooks' cross-platform compatibility. Incorporated Cmder to facilitate seamless use of Bash, Python scripts, and aliases on Windows. Focused on cloud management tools (Azure CLI, kubectl, k9s, not an exhaustive list), effectively bridging knowledge gaps and streamlining operations within our team. Advanced documentation practices with Markdown and GitHub, plus a dynamic, interactive knowledge base with GitHub Pages and VitePress, have significantly enhanced productivity.
+
+   - **Cloud Migration Adaptation:** Played a pivotal role in the bank's transition to Azure and private clouds by advancing my IaC (Infrastructure as Code), GitOps, and Kubernetes skills through a self-led Kubernetes home-lab project. This journey not only refined our production standards but also elevated the team's cloud proficiency, enhancing our capabilities in data monitoring, visualization with Elastic Stack, and improving debugging and deployment methodologies.
+
+   - **DevOps Toolkit Implementation:** Built a standardized toolkit leveraging open-source technologies, enhanced by Docker for cross-platform compatibility of Ansible Playbooks. Incorporated Cmder to facilitate seamless use of Bash, Python scripts, and aliases on Windows. Focused on cloud management tools (Azure CLI, kubectl, k9s—not an exhaustive list), effectively bridging knowledge gaps and streamlining operations within our team.
+
+   - **Documentation Practices:** Advanced documentation practices with Markdown and GitHub. Developed a dynamic, interactive knowledge base using GitHub Pages and VitePress, significantly enhancing productivity.
 
 ### NOV 2012 TO APR 2017 | SOCIÉTÉ GÉNÉRALE CORPORATE & INVESTMENT BANKING, PARIS, FRANCE
 
@@ -47,12 +60,16 @@ As an E-Trading Functional Production Engineer, I capitalized on my strong found
 
 6-month internship to acquire practical and professional experience while completing the master’s program. Mainly automating fund management and reporting processes, demonstrating an early ability to apply technical solutions to financial operations.
 
+---
 ## SKILLS
 
 ### Languages
 
-  |English| French| Arabic|
-  |-------|-------|-------|
+| Language | Proficiency |
+|----------|-------------|
+| English  | Fluent      |
+| French   | Native      |
+| Arabic   | Native      |
 
 ### Technical
 
@@ -89,31 +106,64 @@ As an E-Trading Functional Production Engineer, I capitalized on my strong found
 | PiKube Kubernetes Service             | From basics to mastery, I built a home-based Kubernetes cluster using Raspberry and Orange Pis. This project, rooted in Infrastructure as Code (IaC) and GitOps principles, serves as a multi-functional gateway for high-availability setups. It is documented and shared as a community resource. [View on GitHub](https://github.com/Crypto-Aggressor/PiKube) |
 | Investment Management Python Module   | After earning a specialization in 'Investment Management with Python and Machine Learning' from EDHEC Business School, I compiled key financial and mathematical concepts into a Python module. This project is documented in Jupyter notebooks. [Explore on GitHub](https://github.com/Crypto-Aggressor/Investment-Management-with-Python-and-Machine-Learning-Specialization) |
 
+---
 ## EDUCATION, LICENSES & CERTIFICATIONS
 
-**2023**
-:   **Google IT Automation with Python Specialization** - Google. [**`Credential ID: EGFWWHTBXCHV`**](https://www.coursera.org/account/accomplishments/specialization/EGFWWHTBXCHV)
-:   **Investment Management with Python & Machine Learning Specialization** - EDHEC Business School. [**`Credential ID: WUTZABL42PW8`**](https://www.coursera.org/account/accomplishments/specialization/WUTZABL42PW8)
-:   **Hands-On Introduction to Linux Commands & Shell Scripting** - IBM. [**`Credential ID: KAWNHFVYACMJ`**](https://www.coursera.org/account/accomplishments/verify/KAWNHFVYACMJ)
+### 2023
 
-**2022**
-:   **Continuous Integration & Continuous Delivery (CI/CD) with Focus on GitHub Actions / Jenkins** - IBM. [**`Credential ID: GXRZ36PB6GLA`**](https://www.coursera.org/account/accomplishments/verify/GXRZ36PB6GLA)
-:   **Registered Scrum Master** - ScrumInc, London, United Kingdom
+- **Google IT Automation with Python Specialization**  
+  *Google*  
+  **Credential ID:** EGFWWHTBXCHV  
+  [View Credential](https://www.coursera.org/account/accomplishments/specialization/EGFWWHTBXCHV)
 
-**2019**
-:   **ITIL V4 Certification** - AXELOS Global Best Practice, London, United Kingdom
+- **Investment Management with Python & Machine Learning Specialization**  
+  *EDHEC Business School*  
+  **Credential ID:** WUTZABL42PW8  
+  [View Credential](https://www.coursera.org/account/accomplishments/specialization/WUTZABL42PW8)
 
-**2012**
-:   **Master of Science in Financial Markets and Risk Evaluation** - Toulouse School of Management, I.A.E Toulouse, Toulouse, France
+- **Hands-On Introduction to Linux Commands & Shell Scripting**  
+  *IBM*  
+  **Credential ID:** KAWNHFVYACMJ  
+  [View Credential](https://www.coursera.org/account/accomplishments/verify/KAWNHFVYACMJ)
 
-**2009**
-:   **Bachelor of Science in Business Management** - Limoges University Graduate School of Management, I.A.E Limoges, Limoges, France
+### 2022
 
-**2008**
-:   **Diploma of Accounting and Finance** - Institut Supérieur Européen de Gestion, Toulouse, France
+- **Continuous Integration & Continuous Delivery (CI/CD) with Focus on GitHub Actions / Jenkins**  
+  *IBM*  
+  **Credential ID:** GXRZ36PB6GLA  
+  [View Credential](https://www.coursera.org/account/accomplishments/verify/GXRZ36PB6GLA)
 
-**2006**
-:   **Higher National Diploma in Business Management** - Paul Sabatier University, Toulouse, France
+- **Registered Scrum Master**  
+  *ScrumInc*, London, United Kingdom
 
-**2004**
-:   **Baccalaureate in Economics & Social Sciences** - Lyautey College, Casablanca, Morocco
+### 2019
+
+- **ITIL V4 Certification**  
+  *AXELOS Global Best Practice*, London, United Kingdom
+
+### 2012
+
+- **Master of Science in Financial Markets and Risk Evaluation**  
+  *Toulouse School of Management (IAE Toulouse)*, Toulouse, France
+
+### 2009
+
+- **Bachelor of Science in Business Management**  
+  *Limoges University Graduate School of Management (IAE Limoges)*, Limoges, France
+
+### 2008
+
+- **Diploma of Accounting and Finance**  
+  *Institut Supérieur Européen de Gestion*, Toulouse, France
+
+### 2006
+
+- **Higher National Diploma in Business Management**  
+  *Paul Sabatier University*, Toulouse, France
+
+### 2004
+
+- **Baccalaureate in Economics & Social Sciences**  
+  *Lyautey College*, Casablanca, Morocco
+
+---
